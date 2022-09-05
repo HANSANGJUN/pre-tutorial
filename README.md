@@ -40,14 +40,14 @@
 
 ```
 
-[📑 요구사항 정의서](https://www.figma.com/file/ZXDGBL14spjQN5Sg5oNKmk/F4---Dukscord-team-library?node-id=0%3A1](https://scratched-skateboard-57f.notion.site/e9f42982388342228d551a148425f89b)
+
+[📑 요구사항 정의서](https://scratched-skateboard-57f.notion.site/e9f42982388342228d551a148425f89b)
 
 [📡 API 명세서](https://scratched-skateboard-57f.notion.site/API-70af18a497184009a0d4d3edc1a148b9)
 
 [🗒 Notion 회의록](https://scratched-skateboard-57f.notion.site/9d7eb0218dd247e89a395d87a0c0d65b)
 
 [💻 개발 일지](https://scratched-skateboard-57f.notion.site/ce779274e4ca4c068a2de3e4b911e07b?v=8bc2da650aac44a0a244ac550f3a2d27)
-
 
     
 ### 기술 스택
