@@ -17,7 +17,7 @@
 
 
 
-|[강다교](https://github.com/)|[지영준](https://github.com/)|[최진아](https://github.com/)|[한상준](https://github.com/)|
+[강다교](https://github.com/)[지영준](https://github.com/)[최진아](https://github.com/)[한상준](https://github.com/)
 
 
 ## 💻 프로젝트 소개
